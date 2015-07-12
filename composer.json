@@ -1,0 +1,11 @@
+{
+    "name": "leonverschuren/exif-modifier",
+    "autoload": {
+        "psr-4": { "leonverschuren\\": "src/" }
+    },
+    "require": {
+        "symfony/console": "~2.7",
+        "lsolesen/pel": "@dev",
+        "doctrine/collections": "^1.3"
+    }
+}
